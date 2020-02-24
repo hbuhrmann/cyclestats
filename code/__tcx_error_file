@@ -1,0 +1,69 @@
+Filename,Linecount,Errorfound,Errorcount,Errortext
+2144008940.tcx,2429,True,12145,latitude |longitude |altitude |heart |cadence |
+2144142355.tcx,101,True,404,latitude |longitude |altitude |heart |
+2144308193.tcx,4224,True,16896,latitude |longitude |altitude |heart |
+2146098515.tcx,2494,True,2496,heart |
+2146240802.tcx,2746,True,2746,heart |
+2156603041.tcx,7118,True,2,
+2158858641.tcx,6345,True,3,
+2184912777.tcx,2684,False,0,
+2186324273.tcx,3126,False,0,
+2188399307.tcx,8293,False,0,
+2214363355.tcx,3581,True,32,
+2214660114.tcx,5183,True,13,
+2229965278.tcx,5662,True,50,
+2231623757.tcx,3318,False,0,
+2232354528.tcx,4618,True,142,
+2233873784.tcx,2784,False,0,
+2247411918.tcx,7924,False,0,
+2247956703.tcx,5224,True,6,
+2278974971.tcx,1947,False,0,
+2280664283.tcx,1671,False,0,
+2294909387.tcx,3088,True,4,
+2296622498.tcx,2609,True,13,
+2296966072.tcx,2448,True,3,
+2310165735.tcx,5536,False,0,
+2312822501.tcx,11973,False,0,
+2329849627.tcx,17191,True,46,
+2343829074.tcx,2234,True,4,
+2345381662.tcx,5686,True,10,
+2347388740.tcx,2669,False,0,
+2434361860.tcx,11599,False,0,
+2436313825.tcx,5815,False,0,
+2455690291.tcx,2646,False,0,
+2585869468.tcx,7162,False,0,
+2586411501.tcx,3620,True,2,
+2588577793.tcx,8123,True,16,
+2823332114.tcx,3950,True,8006,heart |cadence |
+2902193625.tcx,23770,True,47540,heart |cadence |
+2902207479.tcx,21053,True,63158,distance |heart |cadence |
+2902214005.tcx,18928,True,56783,distance |heart |cadence |
+2902225082.tcx,15602,True,46805,distance |heart |cadence |
+2902228256.tcx,4818,True,14453,distance |heart |cadence |
+2902235764.tcx,9021,True,27062,distance |heart |cadence |
+2902242263.tcx,15882,True,47645,distance |heart |cadence |
+2902254037.tcx,5090,True,15269,distance |heart |cadence |
+2902260944.tcx,3242,True,9725,distance |heart |cadence |
+2902267885.tcx,900,True,2699,distance |heart |cadence |
+2902274855.tcx,12813,True,38438,distance |heart |cadence |
+2902280500.tcx,1367,True,4100,distance |heart |cadence |
+2902284231.tcx,15268,True,45803,distance |heart |cadence |
+2902300494.tcx,13617,True,40850,distance |heart |cadence |
+2902306723.tcx,10845,True,32534,distance |heart |cadence |
+2902306730.tcx,16566,True,49697,distance |heart |cadence |
+2902306740.tcx,13742,True,41225,distance |heart |cadence |
+2902322269.tcx,14753,True,44258,distance |heart |cadence |
+2902322278.tcx,17283,True,51848,distance |heart |cadence |
+2902322282.tcx,14091,True,42272,distance |heart |cadence |
+2902333934.tcx,16039,True,48116,distance |heart |cadence |
+2925386188.tcx,1799,True,5397,latitude |longitude |altitude |
+2926794516.tcx,3471,False,0,
+2929470674.tcx,3169,False,0,
+2998590272.tcx,2680,False,0,
+2998591603.tcx,2859,False,0,
+2998592090.tcx,3819,True,2,
+2998592450.tcx,2933,False,0,
+3004765402.tcx,5523,False,0,
+3008138080.tcx,2217,False,0,
+3085286614.tcx,4627,False,0,
+3086975305.tcx,4231,True,16,
