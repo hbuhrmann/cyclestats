@@ -1,4 +1,3 @@
-import cycledata as cycle
 import cycleanalysis as ca
 import os
 from datetime import datetime as dt
