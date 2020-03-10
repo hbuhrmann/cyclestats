@@ -336,7 +336,7 @@ def readinputfiles(inpath,outpath,filelist):
 	bigdurdf['elementbucket'] = 'not assigned'
 	bigdurdf['subtitle'] = 'not assigned'
 	for index,lookuprow in bigoldlookup.iterrows():
-		print(lookuprow)
+		#print(lookuprow)
 		bigdurdf.loc[(bigdurdf.lowervalue >= lookuprow['from']) & (bigdurdf.uppervalue <= lookuprow.to)
 		             & (bigdurdf.element == lookuprow.element), ['elementbucket','subtitle']] = lookuprow['name'],lookuprow.subname
 

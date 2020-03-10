@@ -6,7 +6,7 @@ import matplotlib.pyplot as py
 #Read the datafile into a DataFrame
 #The supplied files are clean, if you have data with nans or null values, you may have to do some extra cleaning up
 
-df = pd.read_csv('YOURPATH/bigcycledata.csv',dtype={'Watts':np.int,'Cadence':np.int,'HeartRate':np.int},parse_dates=True)
+df = pd.read_csv('c:/temp/bigcycledata.csv',dtype={'Watts':np.int,'Cadence':np.int,'HeartRate':np.int},parse_dates=True)
 #df = pd.read_csv('YOURPATH/cycledata.csv',dtype={'Watts':np.int,'Cadence':np.int,'HeartRate':np.int},parse_dates=True)
 
 start = dt.now()

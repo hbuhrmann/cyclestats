@@ -15,7 +15,7 @@ pc = 1
 target = pc
 targetfiles = 'folder'   # 'folder' or 'files'
 
-targetdir = 'RideAnalysis/Dec19toFeb20/Analytics/'
+targetdir = 'RideAnalysis/March2020/Analytics/'
 
 
 targetraw = targetdir+'Raw/'

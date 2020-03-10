@@ -14,7 +14,7 @@ target = pc
 targetfiles = 'folder'   # 'folder' or 'files'
 
 mactargetdir = '/Users/hbuhrmann/PycharmProjects/CycleStats/bla bla bla and bla'
-pctargetdir = 'C:/Users/hanne/CycleData/RideAnalysis/Dec19toFeb20/Strava'
+pctargetdir = 'C:/Users/hanne/CycleData/RideAnalysis/March2020/Strava'
 
 pctargetraw = pctargetdir+'Raw/'
 pctargetinter = pctargetdir+'Inter/'
